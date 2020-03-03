@@ -8,9 +8,13 @@ Design a program that uses the following parallel arrays:
 
 -empId: An array of seven integers to hold employee identification numbers.
 The array should be initialized with the following numbers: 56588, 4501, 78951, 87775, 84512, 13028, 75804
+
 -hours: An array of seven integers to hold the number of hours worked by each employee.
+
 -payRate: An array of seven doubles to hold each employee's hourly rate.
+
 -wages: An array f seven doubles to hold each employees gross wages
+
 
 The program should relate the data in each array thorough the subscripts. For example, the number in element 0 of the hours array should be the number of hours worked by employee whose identification number is stored in element 0 of the empId array. That same employees pay rate should be stored in element 0 of the payRate array.
 
