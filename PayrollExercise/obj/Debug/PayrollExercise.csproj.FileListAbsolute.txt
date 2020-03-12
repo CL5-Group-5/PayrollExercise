@@ -1,0 +1,6 @@
+C:\Users\imodc\OneDrive\Desktop\Projects\C#\PayrollExercise\PayrollExercise\bin\Debug\PayrollExercise.exe.config
+C:\Users\imodc\OneDrive\Desktop\Projects\C#\PayrollExercise\PayrollExercise\bin\Debug\PayrollExercise.exe
+C:\Users\imodc\OneDrive\Desktop\Projects\C#\PayrollExercise\PayrollExercise\bin\Debug\PayrollExercise.pdb
+C:\Users\imodc\OneDrive\Desktop\Projects\C#\PayrollExercise\PayrollExercise\obj\Debug\PayrollExercise.csprojAssemblyReference.cache
+C:\Users\imodc\OneDrive\Desktop\Projects\C#\PayrollExercise\PayrollExercise\obj\Debug\PayrollExercise.exe
+C:\Users\imodc\OneDrive\Desktop\Projects\C#\PayrollExercise\PayrollExercise\obj\Debug\PayrollExercise.pdb
